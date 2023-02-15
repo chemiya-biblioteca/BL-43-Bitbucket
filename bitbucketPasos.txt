@@ -1,0 +1,11 @@
+crear repositorio en bitbucket
+dar a clone y hacerlo con sourcetree seleccionar la carpeta
+crear archivo html en la carpeta donde hemos seleccionado
+dar en + del archivo en source tree en file status
+nombre del commit y marcar casilla push
+crear rama en bitbuvket
+ckeckout en sourcetree y seleccionar carpeta
+en sourcetree- remotes en la rama damos click y hacemos checkout
+cambiamos algo en la carpeta donde la rama
+lo subimos con commit y push en sourcetree
+en butbucket hacemos merge
